@@ -1,6 +1,6 @@
 ## Fruits
 
-### An fruit dictionary iOS app made with Swift and SwiftUI
+### A fruit dictionary iOS app made with Swift and SwiftUI
 
 <div align="center">
 <table>
